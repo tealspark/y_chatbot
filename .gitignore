@@ -1,7 +1,21 @@
-yardi_rag_jsons/
+# data (don’t push)
 yardi_images/
+yardi_rag_jsons/
 doc_index.json
+
+# secrets
 .env
-.idea/
+
+# local venv created inside the project (your screenshot shows Lib/Scripts/etc/share)
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+.venv/
+
+# python noise
 __pycache__/
+*.pyc
 .DS_Store
+.idea/
