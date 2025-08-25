@@ -1,0 +1,7 @@
+yardi_rag_jsons/
+yardi_images/
+doc_index.json
+.env
+.idea/
+__pycache__/
+.DS_Store
