@@ -6,15 +6,15 @@ doc_index.json
 # secrets
 .env
 
-# local venv created inside the project (your screenshot shows Lib/Scripts/etc/share)
+# local venvs
+.venv/
 Lib/
 Scripts/
 etc/
 share/
 pyvenv.cfg
-.venv/
 
-# python noise
+# python/editor noise
 __pycache__/
 *.pyc
 .DS_Store
